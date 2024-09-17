@@ -1,0 +1,11 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(107, 30, 110);
+}
+
+section {
+    display: flex;
+}
